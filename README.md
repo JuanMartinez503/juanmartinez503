@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmartinez503" alt="juanmartinez503" /></a> </p>
 
-- 🌱 I’m currently learning **TensorFlow.js and how to implement AI to my future projects.**
+- 🌱 I’m currently learning **astro framework to my future projects.**
 
 - 👨‍💻 All of my projects are available at [https://juanmartinez.io](https://juanmartinez.io)
 
