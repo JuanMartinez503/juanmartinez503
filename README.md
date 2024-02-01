@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmartinez503" alt="juanmartinez503" /></a> </p>
 
-- 🌱 I’m currently learning **working on a MERN application that I am extremely pasionate about**
+- 🌱 I’m currently persying my **Master's in Computer Science at Ball State University with a focus on AI and software engineering**
 
 - 👨‍💻 All of my projects are available at [https://juanmartinez.io](https://juanmartinez.io)
 
