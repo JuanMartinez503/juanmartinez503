@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmartinez503" alt="juanmartinez503" /></a> </p>
 
+- 🌎 visit my latest project! https://diettalk.fit
+
 - 🌱 I’m currently persuing my **Master's in Computer Science at Ball State University with a focus on Cloud Computing and software engineering.**
 
 - 👨‍💻 All of my projects are available at [https://juanmartinez.io](https://juanmartinez.io)
