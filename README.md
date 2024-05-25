@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, If'm Juan Martinez!</h1>
-<h3 align="center">A passionate Full Stack Developer from Westfield, Indiana!</h3>
+<h1 align="center">Hi 👋, I'm Juan Martinez!</h1>
+<h3 align="center">A passionate Software Engineer from Westfield, Indiana!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmartinez503&label=Profile%20views&color=0e75b6&style=flat" alt="juanmartinez503" /> </p>
 
